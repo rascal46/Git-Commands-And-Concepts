@@ -9,3 +9,5 @@ git branch -M main
 git push -u origin main
 
 MY NAME IS RUDRA ROY.
+
+WRATH OF GOD.
