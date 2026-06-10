@@ -1,0 +1,49 @@
+Basic Workflow Commands
+
+git status ------------> Shows modified files, staged files, untracked files.
+
+git add . --------------> this adds all the changes done in the folder since last commit
+
+git add [file.txt] ----------------> if you want to add only a certain file, replace "" with filename and extension
+
+
+git push -------------> uploads commits to github.
+
+git pull -------------> Downloads latest changes from GitHub
+
+				________________________________________________
+
+Branching
+
+git branch ------------> lists all branches
+
+git branch [new-branch] ------------> creates a new branch called new-branch [change the name as desired]
+
+git checkout [new-branch] ---------------> switches branches to desired branch
+
+git merge [new-branch] -------------------> merges desired branch to main.
+
+				________________________________________________
+
+Viewing History
+
+git log ---------> shows commit history
+
+git log --oneline ------------> shows commit history in one lines
+
+git diff --------------> shows differences between commits
+
+				________________________________________________
+
+Editing Functions
+
+git restore [file.txt] --------------> discards changes in desired file and restores original version.
+
+git rm [file.txt] ----------------> deletes file and tracks the deletion
+
+git mv [old.txt] [new.txt] ------------------------> renames desired file.
+
+				________________________________________________
+
+
+

@@ -1,0 +1,5 @@
+Use These in Windows Run Dialogue Box (WINDOWS + R)
+
+brave.exe [URL link] ------------> opens desired website in brave browser
+
+brave.exe --incognito [URL link] ------------> opens desired website in brave browser incognito mode

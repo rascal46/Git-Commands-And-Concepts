@@ -1,0 +1,25 @@
+
+Github Initial Setup
+
+git config --global user.name "username" ------------------> Sets your Git username (not GitHub username, just identity for commits).
+
+git config --global user.email "xxxx@yyy" ------------------> sets email for commits. this is used to link to your github account, and will function regardless of what username you give.
+
+git init --------------------> creates hidden .git/ folder within project folder. this stores all versions of your files that you committed, but locally.
+
+git add . --------------------> this adds all the changes done in the folder
+
+git commit -m "message" --------------> saves the current version of your file.
+
+git remote add origin [repository URL] ---------------> uploads your file to desired github repo.
+
+git branch -M main ----------------------> renames current branch to main.
+
+git push -u origin main --------------> uploads file to github main branch.
+
+
+*Once the project is setup, for every consequent changes, use only these:
+
+git add .
+git commit -m "new message"
+git push
