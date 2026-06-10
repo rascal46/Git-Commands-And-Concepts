@@ -2,5 +2,5 @@ This is a Repo listing all cmd, powershell, linux terminal and git commands whic
 
 i will keep on adding more as time passes.
 
-NOTE: Wherever you see [] — it means this is sample text and can be replaced.
+NOTE: Wherever you see [ ] — it means this is sample text and can be replaced.
       DONOT GIVE USE THESE BRACKETS WHILE WRITING THE COMMANDS.
